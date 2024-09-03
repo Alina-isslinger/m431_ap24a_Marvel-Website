@@ -3,13 +3,13 @@
 * Our assignment is going to be, that we are building a website based on marvel.
 ## Assignment Deliverables:
 * we will deliver a website (offline)
-				     the documentation( 
-								* inform
-								* plan
-								* decide
-								* realize
-								* control
-								* test)
+* the documentation( 
+	* inform
+	* plan
+	* decide
+	* realize
+	* control
+	* test)
 ## Key dates:
 * 25.10. we should be done with the product
 * 29.10. the product must be done
