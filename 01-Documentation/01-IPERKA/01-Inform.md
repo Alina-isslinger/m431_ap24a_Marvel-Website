@@ -1,3 +1,4 @@
+# Inform
 # How we gathered the information needed for this assignment
 ## How did we come up with the idea
 * We thought about what what we are able to do, because our skills are still limeted. So the idea came up to code a website. Then we tought about a topic and we came up with the marvel frenchsies.
