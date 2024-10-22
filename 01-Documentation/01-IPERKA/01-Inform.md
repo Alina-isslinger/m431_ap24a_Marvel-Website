@@ -36,4 +36,4 @@
 * That other people can try the quiz out.
 ## Smart Goals
 * That the person who is visiting the website gets a good overview over the website in around 5 Minutes and understands how to navigate trough the website.
-* 
+* The other smart goal is that I learn how to code a JavaScript quiz in the next seven days.
