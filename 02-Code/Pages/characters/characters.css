@@ -1,0 +1,86 @@
+.ausst-startseite {
+    text-align: center;
+    place-items: center;
+    font-size: 200%;
+    font-weight: 600;
+  }
+
+  .gaming-startseite {
+    text-align: center;
+    padding-top: 1%;
+    font-size: 130%;
+    font-weight: 600;
+  }
+
+  .titel-games {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+
+.row img {
+    width: 100% !important;
+}
+
+.gaming-startseite img {
+    width: 30%;
+}
+.row { 
+    align-content: flex-end;
+    display: flex;
+    align-items: flex-end;
+}
+
+body {
+    background-color: rgb(100, 208, 213);
+    overflow-x: hidden;
+  }
+  
+  .heading {
+    text-align: center;
+    place-items: center;
+    background-color: rgb(122, 200, 255);
+    font-size: 230%;
+    font-weight: 600;
+  }
+  
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(122, 200, 255);
+    color: black;
+    text-align: center;
+  }
+  
+  .card-title {             
+    font-size: 110%;
+    font-weight: 650;
+  }
+  
+  .card-text {              
+    font-size: 100%;
+  }
+  
+  .h2 {
+    font-size: 250%;
+    font-weight: 600;
+  }
+  
+  .h3 {
+    font-size: 175%;
+    font-weight: 600;
+  }
+  
+  .h4 {
+    font-size: 150%;
+    font-weight: 600;
+  }
+  
+  h6 {
+    font-size: 100%;
+    font-weight: 600;
+  }
+  
+  
+  
